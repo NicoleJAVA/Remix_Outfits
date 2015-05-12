@@ -1,0 +1,20 @@
+package remix;
+import java.util.*;
+
+
+
+
+public class skirt {
+
+	public skirt() {
+		
+		
+		System.out.println("skirt");
+		
+		
+		
+		
+		
+	}
+
+}

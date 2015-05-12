@@ -1,0 +1,10 @@
+package remix;
+import java.util.*;
+
+public class garment {
+
+	public garment(){
+		System.out.println("garment");
+
+	}
+}

@@ -1,0 +1,48 @@
+package remix;
+import java.util.*;
+
+
+
+public class remix {
+
+
+	
+	public static void main(String[] args) {
+		
+		
+
+		
+		ArrayList<Object> Wardrobe = new ArrayList<Object>(); 
+		System.out.println	("Wardrobe initial size:"+ Wardrobe.size());
+		
+
+		ArrayList<outfit> Outfits = new ArrayList<outfit>(); 
+		System.out.println	("Outfits initial size:"+ Outfits.size());
+
+		outfit outfit1 = new outfit(); 
+		
+		fakeoutfit fakeoutfit1 = new fakeoutfit(); 
+		
+		for( int i; i<(fakeoutfit.Items).size(); i++){}
+		
+		/**************************
+		   test testinst = new test(); // test instance 
+		 
+		   testinst.a();
+		   
+		/**************************/
+
+		
+		
+		
+	}
+
+	
+	
+	
+} 
+
+
+
+
+

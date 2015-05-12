@@ -1,0 +1,42 @@
+package remix;
+
+import java.util.ArrayList;
+
+public class test_addfakeoutfit {
+
+	
+	
+     ArrayList<Object> Items; 
+    
+	 public void addItem( Object item ){
+		 
+		 this.Items.add(item);
+		
+	}
+
+	
+	public test_addfakeoutfit() {
+
+		System.out.println("public");
+		Items = new ArrayList<Object>(); 
+ 		blouse fakeblouse = new blouse(); 
+		skirt fakeskirt = new skirt();  
+		shoe fakeshoe = new shoe();  
+		
+		
+		fakeskirt.shape = new String("aline");
+		fakeskirt.material = new String("cotton");
+		
+		
+		this.addItem(fakeblouse); 
+		this.addItem(fakeskirt); 
+		this.addItem(fakeshoe); 
+		
+		
+		
+		
+		
+		
+	}
+
+}

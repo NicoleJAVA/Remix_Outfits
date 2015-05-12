@@ -1,0 +1,13 @@
+package remix;
+import java.util.*;
+
+
+public class outfit {
+
+	ArrayList<Object> Items; 
+	
+	public void outfit(){
+		
+	} 
+	
+}

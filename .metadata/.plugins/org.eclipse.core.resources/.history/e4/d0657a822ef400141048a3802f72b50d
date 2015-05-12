@@ -1,0 +1,11 @@
+package remix;
+import java.util.*;
+
+
+public class outfit {
+
+	public void outfit(){
+		
+	}
+	
+}

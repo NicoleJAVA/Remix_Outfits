@@ -1,0 +1,9 @@
+package remix;
+
+public class shoe {
+
+	public shoe() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

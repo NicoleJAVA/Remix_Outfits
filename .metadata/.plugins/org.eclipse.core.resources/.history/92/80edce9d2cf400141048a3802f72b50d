@@ -1,0 +1,16 @@
+package remix;
+import java.util.*;
+
+public class blouse {
+	public garment(String shape){
+		this.shape = new String(shape);
+
+	}
+	public blouse (){
+		
+		System.out.println("blouse");
+		
+		
+	} 
+	
+}

@@ -1,0 +1,37 @@
+package remix;
+import java.util.*;
+
+
+
+
+public class shoe {
+
+	
+	String shape; 	 
+	String print;
+	String material; 
+	String append; 
+
+	
+	Boolean red; 
+	Boolean orange; 
+	Boolean yellow; 
+	Boolean green; 
+	Boolean blue; 
+	Boolean purple; 
+	Boolean black; 
+	Boolean white; 
+	Boolean gray; 
+	Boolean brown; 
+	Boolean pink; 
+	
+	
+	public shoe() {
+
+
+		System.out.println("shoe");
+		
+		
+	}
+
+}
